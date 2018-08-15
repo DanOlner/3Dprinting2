@@ -1,0 +1,59 @@
+1:250 000 Scale Colour Raster…Release Change file 2017
+
+IMPORTANT – PLEASE READ CAREFULLY
+
+Your right to use the data stored on this media or downloaded from the Internet File Transfer Protocol (FTP) Files (Data) is subject to your existing licence agreement(s) with Ordnance Survey (Existing Licence Agreement(s)).     
+
+Your use of the Data is limited to the scope of use set out in your Existing Licence Agreement(s).
+
+
+Further Information
+**********************
+If you have any questions or need more information, please contact: 
+   
+   Customer Service Centre,
+   Ordnance Survey,
+   Adanac Drive,
+   SOUTHAMPTON
+   United Kingdom
+   SO16 0AS.
+
+Phone: 03456 05 05 05   
+
+Fax: 023 8005 6159  
+
+Email: customerservices@os.uk
+
+
+Website:os.uk 
+
+The latest product information can be found on the Ordnance Survey Website 1:250 000 scale Colour Raster product pages.
+
+os.uk/oswebsite/products/250k-raster/index.html
+
+
+
+*********************************************************************************************************************************************************
+1:250 000 Scale Colour Raster Changes
+
+Due to the frequency of the release of 1:250 000 Scale colour raster we are showing the Queensferry Crossing as Open Mid 2017.
+
+
+
+Trademarks
+**************
+Ordnance Survey and the OS Symbol are registered trademarks of
+Ordnance Survey, the national mapping agency of Great Britain.
+
+Adobe, the Adobe logo, Acrobat, the Acrobat logo and Acrobat Reader are trademarks or registered trademarks of Adobe Systems incorporated. 
+
+ESRI is a registered trademark of ESRI (UK).
+MapInfo is a registered trademark of MapInfo.
+AutoCAD is a registered trademark and DXF a trademark of Autodesk Incorporated.  All other trademarks are the property of their respective owners and are acknowledged.
+
+
+
+----------------------------------------------------------------------------------------------------
+README FILE CREATED BY ORDNANCE SURVEY, © June 2017
+----------------------------------------------------------------------------------------------------
+V1.3
